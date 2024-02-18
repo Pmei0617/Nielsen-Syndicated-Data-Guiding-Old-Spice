@@ -1,6 +1,6 @@
 # Nielsen-Syndicated-Data-Guiding-Old-Spice
 
-### <u>Project members</u> 
+### <span style="text-decoration: underline;">Project members</span>
 Tom Gogic, Angana Nath, Daniel Reinhardt, ShengYa Mei (Peter)
 
 
