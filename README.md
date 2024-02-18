@@ -13,6 +13,7 @@ Secondary research is conducted to better understand our category and brand, and
 
 ### Files: 
 PPT, Media Player of PPT recording, Nielsen Dataset Description
+
 <br>
 
 ***Due to restrictions, I am not allowed to share the actual dataset used in this project***
