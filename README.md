@@ -1,6 +1,6 @@
 # Nielsen-Syndicated-Data-Guiding-Old-Spice
 
-### Project members: 
+### Project members: Tom Gogic, Angana Nath, Daniel Reinhardt, ShengYa Mei (Peter)
 
 
 ### Access the project -> [Peter's Google Drive](https://drive.google.com/drive/folders/181x2X3NPD_-QkKPU44TRbny0Dtn2Ff88?usp=sharing)
