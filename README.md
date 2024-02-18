@@ -1,6 +1,6 @@
 # Nielsen-Syndicated-Data-Guiding-Old-Spice
 
-### Project members
+### Project members (Wisconsin School of Business)
 Tom Gogic, Angana Nath, Daniel Reinhardt, ShengYa Mei (Peter)
 
 
